@@ -1,0 +1,5 @@
+train: /content/2023Gifted/students/LegendCat08/people_datasets/train/images
+val: /content/2023Gifted/students/LegendCat08/people_datasets/valid/images
+
+nc: 3
+names: ['jeongeun', 'jaein','other']
